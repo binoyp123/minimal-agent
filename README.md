@@ -44,3 +44,7 @@ A: Translating Alzheimer's disease-associated polymorphisms into functional cand
 - Project runs offline
 - Uses free open-source models from sentence-transformers library
 - Total runtime cost: 0
+
+
+### Notes on Bonus Features:
+I attempted to implement one of the bonus features, specifically the "Reranking" one. I tried using a cross-encoder, like the document said, to rerank the top results for better accuracy. However, I failed to complete that task. I believe it didn't work because my code wasn't matching the IDs correctly, so everything got out of synch.
