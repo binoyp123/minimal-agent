@@ -6,16 +6,14 @@ SETUP INSTRUCTIONS:
 3. Run: python rag.py
 
 
-MODEL + EMBEDDING CHOICES:
-
-Programming: Python and NumPy
-  Rationale: Easy to handle and debug when coming across errors. Python is also most compatible and widely used/accepted.
-
-Sentence Encoder: sentence-transformers/all-MiniLM-L6-v2
-  Rationale: It is lightweight, accurate, and fast for semantic similarity.
-
-Vector Index: faiss-cpu
-  Rationale: Fast and reliable similarity search even on small databases.
+### MODEL + EMBEDDING CHOICES:
+- Programming: Python and NumPy  
+        Rationale: Easy to handle and debug when coming across errors. Python is  
+                   also most compatible and widely used/accepted.  
+- Sentence Encoder: sentence-transformers/all-MiniLM-L6-v2  
+        Rationale: It is lightweight, accurate, and fast for semantic similarity.  
+- Vector Index: faiss-cpu  
+        Rationale: Fast and reliable similarity search even on small databases.  
 
 
 RETRIVAL SETTINGS (k, chunk size, threshold):
