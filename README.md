@@ -23,14 +23,14 @@ Binoy Patel
 
 
 ### EXAMPLE OUTPUT:
-
+```text
 Q: Which genes are most linked to Alzheimer's disease?
 Top matches:
    #1: id=Source 1  L2=0.64
    #2: id=Source 3  L2=0.73
    #3: id=Source 5  L2=0.79
 A: IGAP studies found several DNA changes linked to Alzheimer's and how they affect nearby genes. Large genetic studies found many new risk genes tied to the immune system and fat metabolism. Younger and older patients can have different genetic risks for Alzheimer’s, especially with APOE. [Source 1] [Source 3] [Source 5]
-
+```
 
 
 ### EVALUTATION TABLE:
