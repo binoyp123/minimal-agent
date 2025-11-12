@@ -7,7 +7,7 @@ Binoy Patel
 
 
 ### MODEL + EMBEDDING CHOICES:
-- Programming: Python and NumPy  
+- Programming: Python
         Rationale: Easy to handle and debug when coming across errors. Python is  
                    also most compatible and widely used/accepted.  
 - Sentence Encoder: sentence-transformers/all-MiniLM-L6-v2  
