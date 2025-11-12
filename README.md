@@ -43,4 +43,4 @@ A: Translating Alzheimer's disease-associated polymorphisms into functional cand
 ### COST NOTES:
 - Project runs offline
 - Uses free open-source models from sentence-transformers library
-- Total runtime cost: $0.00
+- Total runtime cost: 0
