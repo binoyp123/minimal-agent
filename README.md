@@ -2,7 +2,7 @@ Binoy Patel
 
 ### SETUP INSTRUCTIONS:
 1. git clone and cd into minimal-agent
-2. Install dependencies: pip install sentence-transformers faiss-cpu numpy
+2. Install dependencies: pip install sentence-transformers faiss-cpu numpy chromadb transformers
 3. Run: python rag.py
 
 
